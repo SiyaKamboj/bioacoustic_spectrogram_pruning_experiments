@@ -1,0 +1,1 @@
+PCEN (Per Channel Energy Normalization) is a technique where there is a running average of frequency in each "channel"/band. Then, every spike is divided by the running average frequency, resulting in frequencies that ignore the "noise" in the channel. This technique was used to hopefully remove site dependance and focus on clear acoustic signals. 

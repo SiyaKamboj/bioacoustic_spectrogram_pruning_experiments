@@ -1,0 +1,1 @@
+The white top-hat transform returns an image, containing elements of an input image that are "smaller" than the structuring element and are brighter than their surroundings.
